@@ -40,7 +40,7 @@ const About = () => {
             </p>
           </div>
           <motion.div initial={{opacity: 0}} animate={{opacity: 1, transition: {delay: 0.6, duration: 0.4, ease: "easeInOut"}}} className='md:w-1/2 md:ml-8 relative flex justify-center h-max rounded-2xl border-2 border-solid border-dark'>
-            <img src={"/tharun1.JPG"} alt='hero' className='w-full h-auto rounded-2xl'/>     
+            <img src={'tharun1.JPG'} alt='hero' className='w-full h-auto rounded-2xl'/>     
           </motion.div>
           
         </div>
