@@ -3,7 +3,6 @@
 import React from 'react'
 import {delay, motion} from 'framer-motion'
 import Image from 'next/image'
-import Hero from '../../public/hero.jpg'
 import Skills from '../components/Skills'
 import Experience from '../components/Experience'
 
