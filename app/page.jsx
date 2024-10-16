@@ -19,7 +19,7 @@ export default function Home() {
             <div className='flex flex-col justify-center items-center'>
               <div className=" w-24 h-24 flex justify-center items-center relative rounded-full border-2 border-white p-1">
                 <div className="inset-0 opacity-100 absolute w-[100%] h-[105%] bg-gradient-to-r dark:from-blue-500 dark:to-purple-600 from-orange-500 to-yellow-300 rounded-full blur"></div>
-                <img src='/title.png' width={70} height={70} className="rounded-full w-full relative hover:opacity-75 duration-200"/>
+                <img src='title.png' width={70} height={70} className="rounded-full w-full relative hover:opacity-75 duration-200"/>
               </div>
               <p className='pt-2 text-3xl'>Tharun Rajeev</p>
               <h1 className='text-2xl'>
