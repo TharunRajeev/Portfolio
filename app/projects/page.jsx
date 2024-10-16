@@ -6,7 +6,7 @@ import Link from 'next/link'
 import Image from 'next/image'
 import SocialCop from '../../public/SocialCop.JPEG'
 import WQMS from '../../public/project-2.jpeg'
-import Saleskrita from '../../public/sk.png'
+import Saleskrita from '../../public/SK.png'
 import Spline from '@splinetool/react-spline/next';
 
 const FeaturedProject = ({type, title, summary, img, link, github}) => {
