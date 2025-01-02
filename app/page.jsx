@@ -13,7 +13,7 @@ export default function Home() {
           transition={{
             type: "spring",
             stiffness: 100,
-            damping: 20,
+            damping: 10,
             delay:1.3
           }} className='h-full w-full flex flex-col gap-5 justify-center items-center'>
             <div className='flex flex-col justify-center items-center'>
