@@ -8,6 +8,7 @@ import SocialCop from '../../public/SocialCop.JPEG'
 import summaraii from '../../public/summaraii.png'
 import path from '../../public/cropped-path.gif'
 import Sorting from '../../public/Sorting.png'
+import pokedex from '../../public/pokedex.png'
 import realTime from '../../public/Real-time-streaming.png'
 import WQMS from '../../public/project-2.jpeg'
 import Saleskrita from '../../public/SK.png'
@@ -91,6 +92,7 @@ const Projects = () => {
               understanding of algorithm efficiency and performance."/>
               <NormalProject title="SummarAI" type="" link= "https://summaraii.netlify.app/" github="https://github.com/TharunRajeev/SummarAi" img={summaraii} summary="React application with Flask-API as backend to summarize youtube videos using OpeAI using youtube transcripts."/>
               <NormalProject title="Visualize search algorithms" type="" link="https://visualize-search-algorithms.netlify.app/" github="https://github.com/TharunRajeev/Visualize-Search-Algorithms" img={path} summary="ReactJS application to visualize how search algorithms like Dijsktra, A*, BFS and DFS works with a fun approach creating a maze."/>
+              <NormalProject title="PokeDex" type="" link="https://tharunpokedex.vercel.app/" github="https://github.com/TharunRajeev/Pokedex" img={pokedex} summary="A simple pokedex built using NextJs and a custom PokeAPI."/>
               <NormalProject title="Social Cop" type="" link= "https://docs.google.com/document/d/1GgG4aTtlismmI-FEGG2YZJE3OgykV-Ql/edit?usp=drive_link&ouid=101611029946851717729&rtpof=true&sd=true" github="https://github.com/TharunRajeev/socialcopapp" img={SocialCop} summary="An Android app developed using Android Studio, Java, NodeJS, MongoDB, AWS S3, SMTP to ensure road safety by allowing the user to capture images, and location and upload them in a common portal that could be addressed by the respective authorities."/>
               <NormalProject title="SalesKrita Consulting Landing page" type="" link= "https://Saleskrita.com" github="https://github.com/TharunRajeev/SalesKrita" img={Saleskrita} summary="HTML, Vanilla Css, Javascript, EmailJS, CI/CD"/>
               <NormalProject title="Water Quality Monitoring System" type="" link="https://drive.google.com/file/d/1DucGUZ4IDxfcAsEI1ALtBWxfft6YD_-w/view?usp=drive_link" github="https://github.com/TharunRajeev/ML-Based-Water-Quality-Monitoring" img={WQMS} summary="NodeMCU, Azure Storage Cloud, Azure Stream Analytics, CloudMQTT, PowerBI, LM35, DS18B20"/>
